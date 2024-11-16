@@ -19,7 +19,6 @@ execute o docker-compose:
 docker compose up --build
 
 #### Acesse o serviço A em http://localhost:8080/cep
-#### Acesse o serviço B em http://localhost:8081/weather
 
 # Observabilidade com OTEL e Zipkin
 #### Porta http://localhost:9411
